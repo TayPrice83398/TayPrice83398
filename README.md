@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TayPrice83398
-- 👀 I’m interested in ... The Tech industry
-- 🌱 I’m currently learning ... Cybersecurity at ASU bootcamp
+- 👀 I’m interested in ... The Tech industry.
+- 🌱 I’m currently learning ... Cybersecurity at ASU bootcamp!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... TayPrice833@gmail.com
 
